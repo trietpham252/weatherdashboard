@@ -1,0 +1,13 @@
+:where(.css-dev-only-do-not-override-1b0bdye).ant-input-search >.ant-input-group >.ant-input-group-addon:last-child .ant-input-search-button {
+    margin-inline-end: -1px;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-start-start-radius: 0;
+    border-start-end-radius: 0;
+    border-end-end-radius: 0;
+    border-end-start-radius: 0;
+    box-shadow: none;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(245, 245, 245);
+}

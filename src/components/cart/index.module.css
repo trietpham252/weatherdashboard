@@ -1,0 +1,27 @@
+/* index.module.css */
+
+.weather-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 8px;
+  transition: box-shadow 0.3s;
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .ant-typography {
+    margin-bottom: 8px;
+  }
+
+
+  p {
+    margin: 8px 0;
+  }
+}
+.humidity-gauge-container {
+  width: 200px; /* Độ rộng của container */
+  height: 200px; /* Độ cao của container */
+  margin: auto; /* Canh giữa container */
+}

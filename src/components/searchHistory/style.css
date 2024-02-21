@@ -1,0 +1,23 @@
+@media (max-width: 768px) { 
+      ul {
+          list-style-type: none;
+          padding-left: 20px;
+        }
+
+        h3{
+          text-align: center;
+          font-size: 10px;
+          margin-top: -50px;
+        }
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+    font-size: 30px;
+  }
